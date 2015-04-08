@@ -200,7 +200,7 @@ By default most of the modules that ship with Prelude are not loaded. For more i
 
 You'll need to adjust your `prelude-modules.el` file once the
 installation is done. If you are doing a manual install then you first
-need to copy the `prelude-modules.el` available in the sample
+need to copy the `prelude-modules.el` available in the `sample`
 directory to the root of `path/to/prelude/installation` and then
 adjust that one.
 
